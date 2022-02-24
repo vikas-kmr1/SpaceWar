@@ -1,8 +1,8 @@
 # SPACEWAR Game
 ## Tools Used:
-  * ###pygame
-  * ###python 3.9
-  * ###pycharm 2021.2.3
+  * pygame
+  * python 3.9
+  * pycharm 2021.2.3
   
 ##Game Views:
   ![](https://github.com/vickyrules/SpaceWar/blob/master/Game_SS/start.png)
