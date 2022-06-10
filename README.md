@@ -60,7 +60,7 @@ In this game both players fight with each other until one of them lost their all
 ## Demo Video:
 ---
 
-  ![](/Python/SpaceWar_Game/Demo/demo.gif)
+  ![](https://github.com/vickyrules/Dev-Scripts-1/blob/main/Python/SpaceWar_Game/Demo/demo.gif)
   
 ---
 
